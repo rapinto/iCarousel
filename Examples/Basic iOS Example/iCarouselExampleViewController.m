@@ -50,7 +50,7 @@
     [super viewDidLoad];
     
     //configure carousel
-    _carousel.type = iCarouselTypeCoverFlow2;
+    _carousel.type = iCarouselTypeRotary;
 }
 
 - (void)viewDidUnload
